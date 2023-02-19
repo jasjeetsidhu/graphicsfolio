@@ -182,7 +182,7 @@ h1, p, body {
 }
 
 h1 {
-  font-size: 4vmin;
+  font-size: 4em;
   line-height: 1.1;
   max-inline-size: 15ch;
   margin: auto;
@@ -359,8 +359,8 @@ margin-left: -7px;
 }
 
 .first{
-  width: 100px;
-  height: 110px;
+  width: 180px;
+  height: 190px;
   margin-top: 80px;
   margin-bottom: -50px;
   border: solid 10px white;
